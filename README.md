@@ -1,4 +1,4 @@
-# Hnagman
+# Hangman
 Hangman-Game
 
 take a pull 
